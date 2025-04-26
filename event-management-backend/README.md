@@ -19,7 +19,7 @@ This is the backend for an Event Management System built with **Node.js**, **Typ
 
 ### Steps
 1. Clone the repository:
-   ```
+```
    git clone <repo-url>
    cd <project-directory>
 ```
